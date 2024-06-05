@@ -1,10 +1,10 @@
 
-![vit1](https://user-images.githubusercontent.com/75360723/170732994-aff232d4-d202-46df-8397-3d740d20965a.png)
+
 
 # Hostel Management System
 
 Hostel Management System is used to manage students in hostels.
-This was especially made for VIT Vellore.
+This is specially made for Sinhgad  Girls Hostels.
 
 
 
@@ -12,7 +12,7 @@ This was especially made for VIT Vellore.
 
 ## Features
 
-- Registration for male and female
+- Registration can be made by females only.
 - Admin Dashboard
 - Student Dashboard
 - Selection of block
@@ -36,9 +36,7 @@ To deploy this project follow these steps:
 ```
 
 
-## Youtube Link
 
-https://www.youtube.com/watch?v=DLzCSq4Ci44
 ## Lessons Learned
 
 - Designing.
@@ -46,29 +44,21 @@ https://www.youtube.com/watch?v=DLzCSq4Ci44
 - Craeting tables by retrieving data from database.
 - Creating sessions.
 
-
-## Demo
-
-Demo for Frontend:
-https://hmsmini.herokuapp.com/
-
 ## Authors
-
-- [@Dasarikarthik](https://github.com/dasarikarthik)
-- [@GowthamReddy](https://github.com/GouthamReddy7)
-- [@Jayasai](https://github.com/sai280100)
-
+Darshana Thakare
+Purvaja Malamkar
 
 ## 🚀 About Me
-Hi👋, I'm karthik.
-Student at Vellore Institute of Technology Vellore.
+Hello, I'm Darshana Thakare 
+pursuing MCA in Sinhgad Institute of Management and Computer Application
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, C++, Java, ML
+## 🛠 Skills Used in this project
+HTML5,CSS3,Javascript,PHP,MySql
 
 
 ## Support
 
-For support, email dasarikarthik559@gmail.com.
+For support, email darshana2001thakre@gmail.com
+
 
