@@ -45,7 +45,7 @@ To deploy this project follow these steps:
 - Creating sessions.
 
 ## Authors
-Darshana Thakare
+Darshana Thakare, 
 Purvaja Malamkar
 
 ## 🚀 About Me
